@@ -17,6 +17,14 @@ body {
   text-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
 }
 
+.code-by {
+  font-size: 12px;
+}
+
+.code-by a {
+  color: white;
+}
+
 /* --- Animation --- */
 @keyframes gradient {
   0% {
