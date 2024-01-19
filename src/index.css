@@ -31,7 +31,6 @@ body {
 }
 
 .navbar {
-  --bs-navbar-toggler-icon-bg: url() !important;
   --bs-navbar-toggler-border-color: transparent !important;
   opacity: 0.58;
 }
